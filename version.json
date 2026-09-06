@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "mandatory": false,
-  "changelog": "Initial Release: Multi-Client support (Trial/Base/Super/Advance), Live Expiry Heartbeat, and Auto-Updater.",
-  "download_url": "https://github.com/tdarkscorpion/bot_Download/releases/download/v1.0.0/AutoProBot.exe"
+  "changelog": "Official Release v1.0.0: High-DPI UI, Multi-Client 20-Account Support, Live Licensing, and Auto-Updater.",
+  "download_url": "https://github.com/tdarkscorpion/bot_Download/raw/main/AutoProBot.exe"
 }
