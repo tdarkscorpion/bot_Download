@@ -99,10 +99,21 @@ Automatic bag monitoring, return-to-town vendor trips, blacksmith repairs, and s
 
 ---
 
+## 📥 Direct Downloads
+
+You can download either the standalone suite or the bundled distribution package:
+
+| Binary | Description | Direct Download Link |
+| :--- | :--- | :---: |
+| **AutoProBot.exe** (v1.2.0) | High-performance standalone executable with zero-flicker UI & multi-client swarm | [⬇️ Download AutoProBot.exe](https://github.com/tdarkscorpion/bot_Download/raw/main/AutoProBot.exe) |
+| **Distribution.exe** | Pre-bundled full distribution launcher package | [⬇️ Download Distribution.exe](https://github.com/tdarkscorpion/bot_Download/raw/main/Distribution.exe) |
+
+---
+
 ## 🚀 Getting Started
 
 1. **Launch the Executable**:
-   Run `AutoProBot.exe` with administrative privileges.
+   Run `AutoProBot.exe` or `Distribution.exe` with administrative privileges.
 2. **Retrieve Your HWID**:
    Click the **📋 Copy HWID** button in the header bar.
 3. **Obtain License**:
