@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.0",
   "mandatory": false,
-  "changelog": "Official Release v1.0.0: High-DPI UI, Multi-Client 20-Account Support, Live Licensing, and Auto-Updater.",
+  "changelog": "AutoPro Bot v1.2.0: Zero-flicker persistent UI, DarkScorpion cybernetic branding & icon, HMAC-SHA256 anti-crack security, stick-to-target combat engine, auto-revive & map auto-routing.",
   "download_url": "https://github.com/tdarkscorpion/bot_Download/raw/main/AutoProBot.exe"
 }
