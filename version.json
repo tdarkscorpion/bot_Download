@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "mandatory": false,
-  "changelog": "AutoPro Bot v1.2.1: Fix post-death resurrection dialog dismissal without opening in-game chat box, and add ESC protection for map auto-routing.",
+  "changelog": "AutoPro Bot v1.2.2: Fixed auto-return to farm spot after death. Added resurrection transition delay, safe viewport chat defocusing, and prevented premature farming spot clearance.",
   "download_url": "https://github.com/tdarkscorpion/bot_Download/raw/main/AutoProBot.exe"
 }
