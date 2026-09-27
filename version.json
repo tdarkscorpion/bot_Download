@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "mandatory": false,
-  "changelog": "AutoPro Bot v1.2.2: Fixed auto-return to farm spot after death. Added resurrection transition delay, safe viewport chat defocusing, and prevented premature farming spot clearance.",
-  "download_url": "https://github.com/tdarkscorpion/bot_Download/raw/main/AutoProBot.exe"
+  "changelog": "AutoPro Bot v1.2.3: Upgraded to Cloudflare Edge Worker licensing authority with zero-leakage HWID privacy and edge binary streaming.",
+  "download_url": "https://talisman-license.tdarkscorpion.workers.dev/update?repo=bot&file=exe"
 }
